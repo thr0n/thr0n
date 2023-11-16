@@ -10,7 +10,6 @@
 
 - 🌍 [My website](https://thr0n.github.io/)
 - 🔵 [LinkedIn](https://www.linkedin.com/in/boelcke/)
-- 🐦 [Twitter](https://twitter.com/hthr0n)
 
 
 <!--
